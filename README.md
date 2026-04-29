@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sai Deepika Pudi 
 
-<!--
-**deepika-pudi/deepika-pudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m an aspiring Data Analyst passionate about turning data into meaningful insights.
 
-Here are some ideas to get you started:
+## Skills
+- SQL  
+- Excel  
+- Power BI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I work on beginner-friendly data science projects to improve my analytical skills.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/sai-deepika-pudi-329205403
+- Email: deepikasai2207@gmail.com
